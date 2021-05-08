@@ -1,14 +1,10 @@
 # MMMV-CID
 Proyecto Final - Modelos de Arquitecturas Orientadas a Servicios
 
-### Ing. Miguel Manuel Martínez Vázquez
-### Matricula 00614948
+### Luis Willibaldo Bautista Flores
+### 
 
 [![Versión](https://img.shields.io/badge/Versión-0.0.1-blue.svg)](https://github.com/djmai/MMMV-CICD/releases/tag/Deploy-CI-CD-v0.0.1)
-
-[![donate](https://www.paypalobjects.com/es_ES/i/btn/btn_donate_SM.gif)](https://paypal.me/IngMiguelMartinez?locale.x=es_XC)
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/7trr5f)
 
 _Este repositorio contiene todo el despliegue de Integración y Distribución Continuas (CI/CD) los cuales son subconjuntos diferenciados de tareas agrupadas en lo que se conoce como etapas del canal._
 
@@ -174,10 +170,10 @@ Para validar la instalación ejecutar el comando: `docker-machine version`.
 <a name="Create-VM"></a> 
 ## Creación de máquina virtual con Docker Machine 
 
-Para crear la máquina, a la cual llamamos **\*vmmtie\***; se debe ejecutar el siguiente comando: 
+Para crear la máquina, a la cual llamamos **\*rancheros\***; se debe ejecutar el siguiente comando: 
 
     ``` 
-    > docker-machine create --driver virtualbox --virtualbox-cpu-count 2 --virtualbox-disk-size 10000 --virtualbox-memory 4096 --virtualbox-boot2docker-url https://releases.rancher.com/os/latest/rancheros.iso vmmtie
+    > docker-machine create --driver virtualbox --virtualbox-cpu-count 2 --virtualbox-disk-size 10000 --virtualbox-memory 4096 --virtualbox-boot2docker-url https://releases.rancher.com/os/latest/rancheros.iso rancheros
     ``` 
     
     _--virtualbox-cpu-count: Número de CPU que se utilizarán para crear la máquina virtual._  
@@ -237,7 +233,7 @@ Para ejecutar un Alias Git Temporal para no realizar la instalación.
 Clonar en la máquina el repositorio de este proyecto. 
 
     ``` 
-    git clone https://github.com/karroyodev/MTIE513-CICD-PGH-KTAC.git 
+    git clone https://github.com/LuisW881/PROYFINAL.git 
     ``` 
 
 <a name="Clon-Repo"></a> 
