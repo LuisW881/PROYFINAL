@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo '=========================================================='
-echo '===   MTIE MIGUEL MANUEL MARTINEZ VAZQUEZ              ==='
+echo '===   MTIE LUIS W. BAUTISTA FLORES            ==='
 echo '=========================================================='
 
 echo ' ___ __ __      ________    ________      ______      '
