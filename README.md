@@ -367,11 +367,11 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-- **Ing. Miguel Martinez** - [djmai](https://github.com/djmai)
+- **Luis W. Bautista** - 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/djmai/MMMV-CICD/CONTRIBUTING.md) quíenes han participado en este proyecto.
+##También puedes mirar la lista de todos los [contribuyentes](https://github.com/djmai/MMMV-CICD/CONTRIBUTING.md) quíenes han participado en este proyecto.
 
-<a name="Licencia" />
+##<a name="Licencia" />
 
 ## Licencia 📄
 
@@ -379,11 +379,10 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Expresiones de Gratitud 🎁
 
-- Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-- Da las gracias públicamente 🤓.
-- etc.
+##- Comenta a otros sobre este proyecto 📢
+##- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+##- Da las gracias públicamente 🤓.
+##- etc.
 
 ---
 
-⌨️ con ❤️ por [Ing. Miguel Martinez](https://github.com/djmai) 😊
