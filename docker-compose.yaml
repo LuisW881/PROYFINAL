@@ -85,10 +85,10 @@ services:
       - mysql
       - elasticsearch
     volumes:
-      - ./volumes/logstash/pipeline/:/usr/share/logstash/pipeline/
-      - ./volumes/logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
-      - ./volumes/logstash/config/pipelines.yml:/usr/share/logstash/config/pipelines.yml
-      - ./volumes/logstash/config/queries/:/usr/share/logstash/config/queries/
+      - ~/volumes/logstash/pipeline/:/usr/share/logstash/pipeline/
+      - ~/volumes/logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
+      - ~/volumes/logstash/config/pipelines.yml:/usr/share/logstash/config/pipelines.yml
+      - ~/volumes/logstash/config/queries/:/usr/share/logstash/config/queries/
     logging:
       driver: "json-file"
       options:
